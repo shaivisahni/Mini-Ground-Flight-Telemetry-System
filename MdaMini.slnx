@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FlightSim/FlightSim.csproj" />
+  <Project Path="GroundStation/GroundStation.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+</Solution>

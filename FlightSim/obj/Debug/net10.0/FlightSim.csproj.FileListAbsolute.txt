@@ -1,0 +1,14 @@
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/bin/Debug/net10.0/FlightSim
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/bin/Debug/net10.0/FlightSim.deps.json
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/bin/Debug/net10.0/FlightSim.runtimeconfig.json
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/bin/Debug/net10.0/FlightSim.dll
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/bin/Debug/net10.0/FlightSim.pdb
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/FlightSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/FlightSim.AssemblyInfoInputs.cache
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/FlightSim.AssemblyInfo.cs
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/FlightSim.csproj.CoreCompileInputs.cache
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/FlightSim.dll
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/refint/FlightSim.dll
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/FlightSim.pdb
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/FlightSim.genruntimeconfig.cache
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/FlightSim/obj/Debug/net10.0/ref/FlightSim.dll

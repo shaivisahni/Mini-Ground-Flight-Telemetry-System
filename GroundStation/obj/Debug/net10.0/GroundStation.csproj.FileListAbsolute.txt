@@ -1,0 +1,14 @@
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/bin/Debug/net10.0/GroundStation
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/bin/Debug/net10.0/GroundStation.deps.json
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/bin/Debug/net10.0/GroundStation.runtimeconfig.json
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/bin/Debug/net10.0/GroundStation.dll
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/bin/Debug/net10.0/GroundStation.pdb
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/GroundStation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/GroundStation.AssemblyInfoInputs.cache
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/GroundStation.AssemblyInfo.cs
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/GroundStation.csproj.CoreCompileInputs.cache
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/GroundStation.dll
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/refint/GroundStation.dll
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/GroundStation.pdb
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/GroundStation.genruntimeconfig.cache
+/Users/techsupport/Desktop/Mini-Ground-Flight-Telemetry-System/GroundStation/obj/Debug/net10.0/ref/GroundStation.dll
